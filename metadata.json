@@ -1,0 +1,6 @@
+{
+  "name": "Roblox 2007 Simulator",
+  "description": "A fully functional, high-fidelity classic Roblox 2007 simulator. Build 2D and 3D games, customize avatars, buy accessories, trade items, create shirts and pants, join groups, participate in forums, and experience Roblox history in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
